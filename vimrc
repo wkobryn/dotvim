@@ -1,3 +1,5 @@
+call pathogen#infect()
+
 set background=dark
 set tabstop=4
 set expandtab
@@ -14,3 +16,5 @@ set si
 set sm
 " hi CursorLine guibg=#222222 gui=none
 " hi LineNr ctermfg=DarkMagenta guifg=#2b506e guibg=#000000
+syntax on
+filetype plugin indent on
