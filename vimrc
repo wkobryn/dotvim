@@ -3,7 +3,7 @@ set nocompatible
 call pathogen#infect()
 
 set background=dark
-colorscheme Tomorrow
+colorscheme jellybeans
 " let g:molokai_original = 1
 
 set tabstop=4
